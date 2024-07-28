@@ -6,7 +6,7 @@ If you’re looking for a high-quality and professionally designed online educat
 
 ECOURSES – online classes website template is absolutely perfect for both multi-page and one-page educational websites. You will find total 7+ pre-built HTML5 pages like Home, About, Courses, Teachers, Blog, Blog Detail, Contact, and so on. These pre-built HTML pages will help you to create your website easily without having advanced coding knowledge.
 
-**Features of our free online courses HTML template**
+**Features of our free online courses HTML template:**
 
 Valid HTML5 and CSS3
 SASS supported code
